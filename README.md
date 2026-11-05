@@ -24,10 +24,7 @@ I bridge the gap between software development and systems: I enjoy coding web ap
 
 *Here will live my academic and personal projects as I build them:*
 
-<!-- 
-- **[Project Name 1](link-to-repo):** Brief summary of the project, problem solved, and technologies used.
-- **[Project Name 2](link-to-repo):** Brief summary of the project, problem solved, and technologies used.
--->
+- **[CertPath Android (PoC)](https://github.com/CertPath-Labs/CertPath-IT-Cert-Roadmap):** Mobile prototype designed to help IT students explore cloud, networking, and security certification roadmaps. Currently being transitioned into a full-stack web platform.
 
 ---
 
