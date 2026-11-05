@@ -32,3 +32,10 @@ I bridge the gap between software development and systems: I enjoy coding web ap
 
 - **LinkedIn:** www.linkedin.com/in/enriquepavescastillo
 - **Email:** pavescastilloenrique@gmail.com
+
+---
+
+### 📄 Resume / CV
+
+- 🇬🇧 [Download CV (English)](CV_Enrique_Paves_EN.pdf)
+- 🇪🇸 [Descargar CV (Español)](CV_Enrique_Paves_ES.pdf)
