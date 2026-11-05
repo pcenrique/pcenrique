@@ -20,6 +20,17 @@ I bridge the gap between software development and systems: I enjoy coding web ap
 
 ---
 
+### 🖥️ Self-Hosted Infrastructure & Homelab
+
+I run a personal Proxmox VE server to host local services, experiment with Linux environments, and automate daily workflows:
+
+- **Hypervisor:** Proxmox VE (Debian-based).
+- **Workloads:** Containerized services using LXC and Docker.
+- **Networking & Access:** WireGuard for secure remote management.
+- **Monitoring & Automation:** Service healthchecks, alerts, and automated backups.
+
+---
+
 ### 🚀 Projects
 
 *Here will live my academic and personal projects as I build them:*
