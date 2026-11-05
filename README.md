@@ -31,14 +31,14 @@ I run a personal Proxmox VE server to host local services, experiment with Linux
 
 ---
 
-### 🚀 Projects
+<!-- ### 🚀 Projects
 
 *Here will live my academic and personal projects as I build them:*
 
 - **[CertPath Android (PoC)](https://github.com/CertPath-Labs/CertPath-IT-Cert-Roadmap):** Mobile prototype designed to help IT students explore cloud, networking, and security certification roadmaps. Currently being transitioned into a full-stack web platform.
 
----
-
+--- 
+-->
 ### 📬 Connect
 
 - **LinkedIn:** www.linkedin.com/in/enriquepavescastillo
